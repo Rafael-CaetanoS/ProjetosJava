@@ -6,7 +6,7 @@ package ativiades;
 
 import java.util.Scanner;
 
-public class NuermosRomanos {
+public class NumerosRomanos {
 	public static void main(String[] args) {
 
         Scanner teclado = new Scanner(System.in);
